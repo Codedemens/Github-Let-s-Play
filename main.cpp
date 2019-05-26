@@ -15,7 +15,7 @@ public:
         return a;
     }
 
-    const std::string jakies_dziadostwo = "Jakies dziadonstfo";
+    const std::string jakies_dziadostwo = "Jakies dziadonstfo numer 2";
 };
 
 int main() {
