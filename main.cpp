@@ -11,6 +11,7 @@ public:
         std::string a;
 
         a = jakies_dziadostwo + " | " + jakies_dziadostwo + "_123";
+        a += "_ABCDE";        
 
         return a;
     }
