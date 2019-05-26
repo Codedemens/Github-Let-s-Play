@@ -11,12 +11,8 @@ public:
         std::string a;
 
         a = jakies_dziadostwo + " | " + jakies_dziadostwo + "_123";
-<<<<<<< HEAD
         a += "_ABCDE";        
-=======
-        
         a += "ZYC";
->>>>>>> relative
 
         return a;
     }
