@@ -11,6 +11,8 @@ public:
         std::string a;
 
         a = jakies_dziadostwo + " | " + jakies_dziadostwo + "_123";
+        
+        a += "ZYC";
 
         return a;
     }
