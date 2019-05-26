@@ -24,6 +24,7 @@ int main() {
 
     Logger logger;
     std::string s = logger.Show();
+    s += std::string() + "\n" + s + "\n" + s;
     std::cout << s << std::endl;
     
     return 0;
